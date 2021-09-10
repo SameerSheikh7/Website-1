@@ -1,0 +1,143 @@
+h1 {
+  font-size: 5rem;
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-family: 'Architects Daughter', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 3rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+body {
+  color: #40514E;
+  margin-left: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+hr {
+  color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 4px;
+  border-color: grey;
+}
+
+.profile-photo {
+  margin-top: 20px;
+  width: 15%;
+}
+
+.first-para {
+  width: 30%;
+  margin: 0 auto 40px auto;
+}
+
+.inline-test {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 45px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  padding-top: 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 30px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.left-img {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.right-img {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.bottom-h3 {
+  padding-bottom: 20px;
+}
+
+.bottom-para {
+  margin: 40px auto 60px;
+}
+
+.middle-container {
+  background-color: #CDF0EA;
+  padding-bottom: 50px;
+}
+
+.btn {
+  background-color: #11999E;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #66BFBF;
+}
+
+.bottom-container {
+  padding: 50px 0 30px;
+  background-color: #66BFBF;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #036568;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.footer-para {
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 25px;
+  color: white;
+  margin-bottom: 0;
+  font-size: 0.9rem;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
